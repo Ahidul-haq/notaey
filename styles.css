@@ -1,0 +1,192 @@
+header{
+
+}
+header{
+
+
+}
+.container{
+	margin:0 auto;
+	width:80%;
+	overflow: hidden;
+ 
+
+}
+.logo{
+	margin-top: 3px;
+	float:left;
+	width:15%;
+
+}
+.logo img{
+
+		width:100%;
+}
+.menu{
+	float:right;
+	width:75%;
+margin-top:3px;
+}
+.menu ul{
+	float:right;
+
+}
+.menu ul li{
+list-style: none;
+float:left;
+}
+.menu ul li a{
+text-decoration: none;
+display: inline-block;
+margin:0px 25px;
+font-size:16px;
+	font-weight: bold;
+	color:#535D69;
+
+}
+.menu ul li:last-child a{
+	margin-right: 0;
+}
+.menu ul li a:hover{
+	color:#BD233F;
+}
+.banner{
+	min-height: 500px;
+		background-image: url(images/logo1.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+}
+.b-container{
+	margin: 100px 0;
+			width:50%;
+			
+}
+.b-container h1{
+			font-family: sans-serif;
+			font-size:66px;
+			font-weight: 700;
+			color: white;
+			text-transform: capitalize;
+
+}
+.b-container p{
+	font-family: sans-serif;
+			font-size:19px;
+			font-weight: 400;
+			color: white;
+text-transform: capitalize;
+}
+.b-container button{
+	margin-top:15px;
+			width:250px;
+			height: 50px;
+			background-color: #BD233F;
+			font-family: sans-serif;
+			font-size:17px;
+			font-weight: 400;
+			color: white;
+text-transform: capitalize;
+			border: none;
+}
+.b-container button:hover{
+					background-color: white;
+					color:#BD233F;
+
+}
+.works{
+	padding:90px 0;
+
+}
+.c_title{
+	margin:0 auto;
+		width:70%;
+		
+		text-align: center;
+	
+}
+.c_h1{
+	margin:0 0 40px;
+	font-family: sans-serif;
+			font-size:30px;
+			font-weight: bold;
+			color: #161616;
+
+}
+.c_p{
+	font-family: sans-serif;
+			font-size:16px;
+			font-weight: 400;
+			color: #535D69;
+			line-height:25px; 
+			
+
+}
+
+.w_content{
+		
+		overflow:hidden;
+}
+.single{
+	float:left;
+	padding:20px 50px;
+		width:23%;
+		text-align: center;
+		
+	}
+.s_img{
+	margin:0 auto;
+	width:36%;
+}
+.s_img img{
+	width:100%;
+}
+.single h3{
+font-family: sans-serif;
+			font-size:19px;
+			font-weight: 700;
+			color: #535D69;
+			line-height:25px;
+}
+
+
+
+
+.write{
+	margin:100px 0;
+float: left;
+width: 50%;
+ 	
+
+}
+
+.write h3{
+	margin: 0 0 30px;
+	font-family: sans-serif;
+			font-size:35px;
+			font-weight: 700;
+			color: #535D69;
+				text-transform:capitalize; 
+}
+ .write p{
+			font-family: sans-serif;
+			font-size:16px;
+			font-weight: 400px;
+			color: #535D69;
+			line-height:25px;
+}
+
+
+.lol{ 
+
+margin: 100px 0 100px 0;
+	float:right;
+	width:47%;
+}
+
+.lol  img{
+
+	
+	width:92%;
+
+}
